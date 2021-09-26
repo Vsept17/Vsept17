@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=vinitshahdeo.visitor-badge)]
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=vinitshahdeo.visitor-badge)] -->
 
 <!--
 **Vsept17/Vsept17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
